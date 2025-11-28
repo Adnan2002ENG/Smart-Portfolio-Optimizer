@@ -1,0 +1,62 @@
+✅ Améliorations Recommandées – Smart Portfolio Optimizer
+
+(à copier-coller directement dans ton Word, ça marchera toujours)
+
+1. Tableau des valeurs finales
+
+Ajouter sous les graphiques un tableau affichant :
+
+La valeur finale du portefeuille en base 100
+
+La valeur finale en euros/dollars (selon le capital initial)
+
+Le rendement total en %
+
+Objectif :
+Permettre à l'utilisateur ou au jury NEOMA / recruteur de voir l’impact monétaire réel d'une stratégie.
+
+2. Résumé analytique automatique
+
+Ajouter un texte généré automatiquement expliquant :
+
+La stratégie avec le meilleur ratio de Sharpe
+
+Celle avec la volatilité la plus faible
+
+Celle offrant la performance la plus stable
+
+Un commentaire court sur la période (ex : bull market, volatilité élevée, etc.)
+
+Objectif :
+Montrer ta capacité d’analyse et d’interprétation professionnelle — très apprécié en entretien.
+
+3. Limite de poids maximum par actif
+
+Empêcher Markowitz d’investir des poids extrêmes (ex : 90% BTC).
+
+Exemple de contrainte :
+
+Poids maximum : 40% par actif
+
+Objectif :
+Rendre le modèle réaliste comme en gestion institutionnelle (fonds, AMF, risk guidelines).
+
+4. Profils investisseur
+
+Ajouter un menu de sélection :
+
+Prudent → γ = 1.2
+
+Équilibré → γ = 0.7
+
+Agressif → γ = 0.3
+
+Objectif :
+Relier la modélisation mathématique au profil client, compétence essentielle en Asset Management.
+
+5. Graphique de drawdown (optionnel)
+
+Ajouter un graphique du drawdown maximal (perte par rapport au dernier sommet).
+
+Objectif :
+Ajoute une vraie analyse du risque, très importante pour les recruteurs (BNP, SG, AM…).
